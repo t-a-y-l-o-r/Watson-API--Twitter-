@@ -1,2 +1,2 @@
 # Watson-API--Twitter-
-Classifies tweets are either Jaden Smith or Not Smith
+Classifies tweets as either Jaden Smith or Not Smith
