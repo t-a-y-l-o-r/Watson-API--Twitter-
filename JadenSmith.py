@@ -11,7 +11,8 @@
 
 * 1. Collect Jason Smith tweets and random Tweets
 * 2. Test the AI using new tweets that are either from Jason or not
-* 3. Anything that is less than 85 certain or wrong should be added to the training data for 	next time to further improve the AI
+* 3. Anything that is less than 85 certain or wrong should be added to the training data for 
+	next time to further improve the AI
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
